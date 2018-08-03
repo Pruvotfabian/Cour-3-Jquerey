@@ -1,0 +1,32 @@
+/* exercice 1 et 3 */
+button{
+    height: 50px;
+    width: 75px;
+    background-color: #101214;
+    color: whitesmoke;
+}
+/* p{
+    background-color: #101214;
+    color: whitesmoke;
+
+}
+p:last-child{
+    background-color: red;
+} */ 
+  /* exercice 2
+/* .carre{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: #101214;
+    color: whitesmoke;
+} */
+#name{
+   width: 100%;
+}
+
+#nickname{
+    width: 100%;
+}
